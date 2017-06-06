@@ -1,5 +1,4 @@
-# learning-vue
-Learning Vue.js
+# Learning Vue.js
 
 ## links:
 [vuejs.org](https://vuejs.org/)
