@@ -1,0 +1,16 @@
+<!--just open this file in your browser to see it in action-->
+<div id='app'>
+    <ol>
+        <todo-item v-for='n in 10'></todo-item>
+    </ol>
+</div>
+<script src='https://unpkg.com/vue'></script>
+<script>
+    Vue.component('todo-item',{
+        template:'<li>This is a to-do item.</li>'
+    })
+    // you need to ID the 'scope' AFTER defining the component:
+    new Vue({
+        el: '#app'
+    })
+</script>
