@@ -1,0 +1,14 @@
+<!--just open this file in your browser to see it in action-->
+<div id='app'>
+    <input v-model='text'>
+    <p>{{text}}</p>
+</div>
+<script src='https://unpkg.com/vue'></script>
+<script>
+    new Vue({
+        el:'#app',
+        data:{
+            text:'Modify the input box text.'
+        }
+    })
+</script>
