@@ -1,0 +1,14 @@
+<!--just open this file in your browser to see it in action-->
+<div id='app'>
+    <p v-bind:title='rwe'>{{message}}</p>
+</div>
+<script src='https://unpkg.com/vue'></script>
+<script>
+    new Vue({
+        el:'#app',
+        data:{
+            message:'Hover over this for a couple seconds.',
+            rwe:'You can see this now.'
+        }
+    })
+</script>
