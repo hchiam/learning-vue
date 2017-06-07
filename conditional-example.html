@@ -1,0 +1,18 @@
+<!--just open this file in your browser to see it in action-->
+<div id='app'>
+    <p v-if='seen1'>{{message1}}</p>
+    <p v-if='seen2'>{{message2}}</p>
+    <button v-on:click="seen1 = !seen1; seen2 = !seen2">Toggle</button>
+</div>
+<script src='https://unpkg.com/vue'></script>
+<script>
+    new Vue({
+        el:'#app',
+        data:{
+            message1:'MESSAGE 1: You can see me.',
+            message2:"MESSAGE 2: You couldn't see me, but now you do.",
+            seen1:true,
+            seen2:false
+        }
+    })
+</script>
