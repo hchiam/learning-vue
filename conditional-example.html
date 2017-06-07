@@ -1,8 +1,12 @@
 <!--just open this file in your browser to see it in action-->
 <div id='app'>
-    <p v-if='seen1'>{{message1}}</p>
-    <p v-if='seen2'>{{message2}}</p>
     <button v-on:click="seen1 = !seen1; seen2 = !seen2">Toggle</button>
+    <transition name="fade">
+        <p v-if='seen1'>{{message1}}</p>
+    </transition>
+    <transition name="fade">
+        <p v-if='seen2'>{{message2}}</p>
+    </transition>
 </div>
 <script src='https://unpkg.com/vue'></script>
 <script>
@@ -16,3 +20,4 @@
         }
     })
 </script>
+<link rel='stylesheet' href='fade-transition.css'>
