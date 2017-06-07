@@ -1,0 +1,25 @@
+<!--just open this file in your browser to see it in action-->
+<div id='app'>
+    <ol>
+        <todo-item v-for='item in todolist' v-bind:todo='item' v-bind:key='item.id'></todo-item>
+        <!--for each item in todolist, get item, set {{todo.text}} = item.text, set key = item.id-->
+    </ol>
+</div>
+<script src='https://unpkg.com/vue'></script>
+<script>
+    Vue.component('todo-item',{
+        props:['todo'], // <- add a property to the component template, so you get: <li todo='...'>{{todo.text}}</li>
+        template:'<li>{{todo.text}}</li>' // <- don't yet know todo='...'
+    })
+    // you need to ID the 'scope' AFTER defining the component:
+    new Vue({
+        el: '#app',
+        data:{
+            todolist:[
+                {id:0, text:'Invite Aladdin'},
+                {id:1, text:'Invite Batman'},
+                {id:2, text:'Invite Cookie Monster'}
+            ]
+        }
+    })
+</script>
