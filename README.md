@@ -1,5 +1,5 @@
 # Learning Vue.js
-Just on of the things I'm learning. https://github.com/hchiam/learning
+Just one of the things I'm learning. https://github.com/hchiam/learning
 ## links:
 [Minimal example](https://codepen.io/hchiam/pen/Qgbmwr)
 
