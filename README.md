@@ -12,4 +12,4 @@ Just one of the things I'm learning. https://github.com/hchiam/learning
 
 ## More Links:
 
-[Trying Out Other Stuff](https://codepen.io/hchiam/pen/NayYpO?editors=0010)
+[Trying out other stuff](https://codepen.io/hchiam/pen/NayYpO?editors=0010)
