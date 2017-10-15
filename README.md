@@ -1,17 +1,17 @@
 # Learning Vue.js
 
-Just one of the things I'm learning. https://github.com/hchiam/learning
+Just one of the things I'm learning. <a target="_blank" href="https://github.com/hchiam/learning">https://github.com/hchiam/learning</a>
 
 ## Essential Links:
 
-[Minimal Example](https://codepen.io/hchiam/pen/Qgbmwr)
+<a target="_blank" href="https://codepen.io/hchiam/pen/Qgbmwr">Minimal Example</a>
 
-[vuejs.org](https://vuejs.org/)
+<a target="_blank" href="https://vuejs.org/">vuejs.org</a>
 
-[Vue.js Style Guide](https://vuejs.org/v2/style-guide/)
+<a target="_blank" href="https://vuejs.org/v2/style-guide/">Vue.js Style Guide</a>
 
-[Vue.js on GitHub](https://github.com/vuejs/vue)
+<a target="_blank" href="https://github.com/vuejs/vue">Vue.js on GitHub</a>
 
 ## More Links:
 
-[Example trying out other stuff](https://codepen.io/hchiam/pen/NayYpO?editors=0010)
+<a target="_blank" href="https://codepen.io/hchiam/pen/NayYpO?editors=0010">Example trying out other stuff</a>
