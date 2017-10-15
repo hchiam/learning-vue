@@ -14,8 +14,6 @@ Just one of the things I'm learning. <a target="_blank" href="https://github.com
 
 ## More Links:
 
-<a target="_blank" href="https://codepen.io/hchiam/pen/NayYpO?editors=0010">Example trying out other stuff</a>
-
 1. <a target="_blank" href="https://codepen.io/hchiam/pen/WZaZvg">Vue.js click-example</a>
 1. <a target="_blank" href="https://codepen.io/hchiam/pen/oGaGjz">Vue.js component-example-with-data</a>
 1. <a target="_blank" href="https://codepen.io/hchiam/pen/wrYrKj">Vue.js component-example</a>
@@ -25,3 +23,7 @@ Just one of the things I'm learning. <a target="_blank" href="https://github.com
 1. <a target="_blank" href="https://codepen.io/hchiam/pen/Bwqwjx">Vue.js input-form-example</a>
 1. <a target="_blank" href="https://codepen.io/hchiam/pen/WZaZra">Vue.js loop-example</a>
 1. <a target="_blank" href="https://codepen.io/hchiam/pen/Qgbmwr">Vue.js minimal-example</a>
+
+## Yet Another Link:
+
+<a target="_blank" href="https://codepen.io/hchiam/pen/NayYpO?editors=0010">Example trying out other stuff</a>
