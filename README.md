@@ -24,9 +24,13 @@ Just one of the things I'm learning. <a target="_blank" href="https://github.com
 1. <a target="_blank" href="https://codepen.io/hchiam/pen/WZaZra">Vue.js loop-example</a>
 1. <a target="_blank" href="https://codepen.io/hchiam/pen/Qgbmwr">Vue.js minimal-example</a>
 
+## Example using Firebase Database:
+
+* <a target="_blank" href="https://github.com/hchiam/vuejsfirebase">vuejsfirebase</a>
+
 ## Other Examples:
 
-<a target="_blank" href="https://codepen.io/hchiam/pen/NayYpO?editors=0010">Example trying out other stuff</a>
+* <a target="_blank" href="https://codepen.io/hchiam/pen/NayYpO?editors=0010">Example trying out other stuff</a>
 
 1. <a target="_blank" href="https://codepen.io/hchiam/pen/Ewdbxm">Vue.js practice from memory</a>
 1. <a target="_blank" href="https://codepen.io/hchiam/pen/veVWYa">Vue.js practice from memory 2</a>
